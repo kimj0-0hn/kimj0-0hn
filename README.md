@@ -1,12 +1,11 @@
 # Hi there! 👋 I'm Kim John Bautista
 
 💻 **Mid-Level Software Engineer | Full Stack Developer**  
-(But backend development is what I want to do the most)
+*(But backend development is my true passion)*
 
 🎓 Former Part-Time IT Instructor  
 🎭 Musical lover and occasional show tune hummer  
 
-🚀 **Always coding, learning, and ...**  
+🚀 **Always coding and learning...**  
 
- [LinkedIn](www.linkedin.com/in/kim-john-bautista-ixxi/)  
-
+Let's connect on [LinkedIn](https://www.linkedin.com/in/kim-john-bautista-ixxi/)
