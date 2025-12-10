@@ -1,5 +1,12 @@
-Hey there! I’m Kim John Bautista 👋
-💻 Mid-Level Software Engineer | Full Stack Dev (but backend all the way!)
-🎓 Former part-time IT instructor
-🎭 Huge fan of musicals
-Always coding, learning, and maybe humming a show tune while at it.
+# Hi there! 👋 I'm Kim John Bautista
+
+💻 **Mid-Level Software Engineer | Full Stack Developer**  
+(But backend development is what I want to do the most)
+
+🎓 Former Part-Time IT Instructor  
+🎭 Musical lover and occasional show tune hummer  
+
+🚀 **Always coding, learning, and ...**  
+
+ [LinkedIn](www.linkedin.com/in/kim-john-bautista-ixxi/)  
+
